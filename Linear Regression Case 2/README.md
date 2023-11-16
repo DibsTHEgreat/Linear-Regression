@@ -1,7 +1,7 @@
 # Linear-Regression Case 2: Real Estate Size vs. Price Prediction
 
 ## Overview
-This repository contains experiments with Linear Regression through various case studies using practice datasets.
+This repository contains experiments with Linear Regression through a couple of case studies using practice datasets.
 
 ### Objective
 The goal of this analysis is to investigate the relationship between the size of a house and its price. Specifically, can we use the size of a house to predict its price?
