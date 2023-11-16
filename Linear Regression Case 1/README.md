@@ -1,7 +1,7 @@
 # Linear-Regression Case 1: SAT Score vs. GPA Prediction
 
 ## Overview
-This repository contains experiments with Linear Regression through various case studies using popular datasets.
+This repository contains experiments with Linear Regression through a couple of case studies using practice datasets.
 
 ### Objective
 The goal of this analysis is to investigate the relationship between a student's SAT score and GPA score. Specifically, can we use a student's SAT score to predict their GPA after graduating from university?
